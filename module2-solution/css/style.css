@@ -23,15 +23,15 @@ p{
 }
 .a
 {
-    background-color: pink;
+    background-color:#d998a4;
 }
 .b
 {
-   background-color: red;
+   background-color:#cc4949;
    color:white;
 }
 .c{
-  background-color: yellow;
+  background-color: #efef84;
 }
 div{
     float:left;
