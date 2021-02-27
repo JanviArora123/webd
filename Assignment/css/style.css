@@ -14,7 +14,7 @@ h3{
     width:30%; 
     float:right;
     text-align: center;
-   
+   padding:2px;  
 }
 p{
     clear:right;
@@ -22,15 +22,15 @@ p{
 }
 .a
 {
-    background-color: pink;
+    background-color: #d998a4;
 }
 .b
 {
-   background-color: red;
+   background-color: #cc4949;
    color:white;
 }
 .c{
-  background-color: yellow;
+  background-color: #eded77;
 }
 div{
     float:left;
